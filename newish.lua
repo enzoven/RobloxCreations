@@ -1,4 +1,4 @@
-char = script.parent -- Dummy
+char = script.Parent.Parent -- Dummy
 
 wait(math.Random(5,10) -- Wait time (Optional)
 
